@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472611515119",
+    "project_id": "billy-f2490",
+    "storage_bucket": "billy-f2490.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472611515119:android:9d59a0f072553eef81891a",
+        "android_client_info": {
+          "package_name": "com.example.billy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472611515119-35aud5jk11fj3vlk1vc7ofih8jsq2too.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBljdk5LSHyIKiBfJZVKXtt-D7AbQfzaHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472611515119-35aud5jk11fj3vlk1vc7ofih8jsq2too.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
